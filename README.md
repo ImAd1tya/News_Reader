@@ -1,6 +1,4 @@
-Here’s a polished **GitHub README.md** tailored for your **CSE215 (Java OOP) 3rd semester project** 👇
 
----
 
 # 📰 News Reader – Java Swing OOP Project
 
