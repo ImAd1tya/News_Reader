@@ -34,7 +34,7 @@ public class NewsReader {
         SwingUtilities.invokeLater(() -> new MainFrame().setVisible(true));
     }
 
-    // =================================================================
+    
     //  CUSTOM EXCEPTIONS
     // =================================================================
 
