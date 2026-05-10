@@ -100,6 +100,9 @@ NewsReader.java
 
 This project was developed as part of academic coursework to practice **Java (OOP) **.
 
+Projectmate:
+1. Kaushik Sharma (2524251642)
+2. Radit Rifah Rahman (2521985042)
 ---
 
 
